@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T01:25:55.047Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.16" etag="eDB4tq__tZg75zw0ktXS" type="github"><diagram name="第 1 页" id="lxlRE_Wfrz89KOj0yuZ1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-07T02:10:09.219Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="HZZZBEPomBzbaPcw-qs1" version="20.8.16" type="github">
+  <diagram name="第 1 页" id="lxlRE_Wfrz89KOj0yuZ1">
+    <mxGraphModel dx="702" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sVHFOPqT8EeBUaVU0r68-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sVHFOPqT8EeBUaVU0r68-1" target="sVHFOPqT8EeBUaVU0r68-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sVHFOPqT8EeBUaVU0r68-1" value="漏洞信息获取阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="40" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sVHFOPqT8EeBUaVU0r68-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sVHFOPqT8EeBUaVU0r68-2" target="sVHFOPqT8EeBUaVU0r68-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sVHFOPqT8EeBUaVU0r68-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="110" width="360" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="sVHFOPqT8EeBUaVU0r68-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.138;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sVHFOPqT8EeBUaVU0r68-3" target="sVHFOPqT8EeBUaVU0r68-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sVHFOPqT8EeBUaVU0r68-3" value="攻击信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sVHFOPqT8EeBUaVU0r68-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sVHFOPqT8EeBUaVU0r68-4" target="sVHFOPqT8EeBUaVU0r68-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sVHFOPqT8EeBUaVU0r68-4" value="网络信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sVHFOPqT8EeBUaVU0r68-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.867;entryY=0.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sVHFOPqT8EeBUaVU0r68-6" target="sVHFOPqT8EeBUaVU0r68-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sVHFOPqT8EeBUaVU0r68-6" value="漏洞信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sVHFOPqT8EeBUaVU0r68-7" value="模型化表示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="210" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sVHFOPqT8EeBUaVU0r68-11" value="网络安全模型化表示" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="120" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sVHFOPqT8EeBUaVU0r68-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sVHFOPqT8EeBUaVU0r68-12" target="sVHFOPqT8EeBUaVU0r68-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sVHFOPqT8EeBUaVU0r68-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="284" width="360" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="sVHFOPqT8EeBUaVU0r68-13" value="检测节点量化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="294" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sVHFOPqT8EeBUaVU0r68-14" value="节点风险评分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="314" width="102.5" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="sVHFOPqT8EeBUaVU0r68-15" value="攻击链位置量化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="319" width="102.5" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="sVHFOPqT8EeBUaVU0r68-16" value="检测路径图生成算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="396" width="360" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
