@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T16:03:42.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="7MVatvBOoGsCdSD-oVf4" version="20.8.17" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-20T16:11:00.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="vh6wLyhY5nnwtXx_0LfO" version="20.8.17" type="github">
   <diagram name="第 1 页" id="U7nzVmlOmT9U_pLwt-ys">
-    <mxGraphModel dx="720" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="720" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,14 +58,17 @@
         <mxCell id="1q7jzdVDW4Sem3Bj1qbZ-66" value="身份认证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="451" y="660" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1q7jzdVDW4Sem3Bj1qbZ-68" value="系统账号密码、公钥信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="189" y="650" width="161" height="30" as="geometry" />
+        <mxCell id="1q7jzdVDW4Sem3Bj1qbZ-68" value="系统账号密码" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="199" y="650" width="81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1q7jzdVDW4Sem3Bj1qbZ-69" value="系统登录成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100.5" y="710" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1q7jzdVDW4Sem3Bj1qbZ-71" value="用户信息token" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="194" y="700" width="97" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1q7jzdVDW4Sem3Bj1qbZ-74" value="公钥认证登录" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="201.5" y="670" width="82" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
