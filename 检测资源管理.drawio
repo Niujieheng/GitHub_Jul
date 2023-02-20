@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T02:46:30.892Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="dxuOs7fpuTeX16Z0_dQZ" version="20.8.17" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-20T02:54:20.611Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="jw15PAlULQfysA92q0Q8" version="20.8.17" type="github">
   <diagram name="第 1 页" id="IdTYEdSu9mO5k3NhyCVG">
-    <mxGraphModel dx="1050" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,50 +31,84 @@
         <mxCell id="rC-9TW8G2QCkbyy4OYIZ-4" value="查询检测工具/代码" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="200" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rC-9TW8G2QCkbyy4OYIZ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rC-9TW8G2QCkbyy4OYIZ-14" target="rC-9TW8G2QCkbyy4OYIZ-26" edge="1">
+        <mxCell id="MiaxIn-td34dC5PQ_QDL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rC-9TW8G2QCkbyy4OYIZ-14" target="MiaxIn-td34dC5PQ_QDL-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rC-9TW8G2QCkbyy4OYIZ-14" value="查询类型" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="rC-9TW8G2QCkbyy4OYIZ-14" value="查询内容" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="299.5" y="280" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rC-9TW8G2QCkbyy4OYIZ-15" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="207.5" y="550" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rC-9TW8G2QCkbyy4OYIZ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rC-9TW8G2QCkbyy4OYIZ-26" target="rC-9TW8G2QCkbyy4OYIZ-29" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rC-9TW8G2QCkbyy4OYIZ-26" value="返回查询结果" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="350" width="112" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="rC-9TW8G2QCkbyy4OYIZ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rC-9TW8G2QCkbyy4OYIZ-29" target="rC-9TW8G2QCkbyy4OYIZ-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rC-9TW8G2QCkbyy4OYIZ-29" value="获取详细信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="298.5" y="420" width="112" height="40" as="geometry" />
+          <mxGeometry x="299" y="460" width="112" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MiaxIn-td34dC5PQ_QDL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MiaxIn-td34dC5PQ_QDL-1" target="MiaxIn-td34dC5PQ_QDL-3">
+        <mxCell id="MiaxIn-td34dC5PQ_QDL-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MiaxIn-td34dC5PQ_QDL-1" target="MiaxIn-td34dC5PQ_QDL-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MiaxIn-td34dC5PQ_QDL-1" value="输入信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="111" y="280" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MiaxIn-td34dC5PQ_QDL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MiaxIn-td34dC5PQ_QDL-3" target="MiaxIn-td34dC5PQ_QDL-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MiaxIn-td34dC5PQ_QDL-3" value="上传Gitlab检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="350" width="112" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="MiaxIn-td34dC5PQ_QDL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MiaxIn-td34dC5PQ_QDL-8" target="rC-9TW8G2QCkbyy4OYIZ-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MiaxIn-td34dC5PQ_QDL-8" value="保存harbor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="109" y="490" width="112" height="40" as="geometry" />
+          <mxGeometry x="110" y="470" width="112" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MiaxIn-td34dC5PQ_QDL-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MiaxIn-td34dC5PQ_QDL-14" target="MiaxIn-td34dC5PQ_QDL-8">
+        <mxCell id="MiaxIn-td34dC5PQ_QDL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MiaxIn-td34dC5PQ_QDL-18" target="rC-9TW8G2QCkbyy4OYIZ-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MiaxIn-td34dC5PQ_QDL-14" value="正常运行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="420" width="112" height="40" as="geometry" />
+        <mxCell id="MiaxIn-td34dC5PQ_QDL-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MiaxIn-td34dC5PQ_QDL-18" target="MiaxIn-td34dC5PQ_QDL-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MiaxIn-td34dC5PQ_QDL-18" value="搜索内容" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="307" y="360" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MiaxIn-td34dC5PQ_QDL-21" value="存在" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="425" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MiaxIn-td34dC5PQ_QDL-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MiaxIn-td34dC5PQ_QDL-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="506" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MiaxIn-td34dC5PQ_QDL-22" value="提示搜索失败" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="460" width="112" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MiaxIn-td34dC5PQ_QDL-24" value="不存在" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="425" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MiaxIn-td34dC5PQ_QDL-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MiaxIn-td34dC5PQ_QDL-26" target="MiaxIn-td34dC5PQ_QDL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MiaxIn-td34dC5PQ_QDL-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MiaxIn-td34dC5PQ_QDL-26" target="MiaxIn-td34dC5PQ_QDL-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MiaxIn-td34dC5PQ_QDL-26" value="Gitlab检测" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="118.5" y="365" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MiaxIn-td34dC5PQ_QDL-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MiaxIn-td34dC5PQ_QDL-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="26" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MiaxIn-td34dC5PQ_QDL-29" value="提示docker运行失败" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="470" width="112" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MiaxIn-td34dC5PQ_QDL-32" value="通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="111" y="425" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MiaxIn-td34dC5PQ_QDL-33" value="不通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-21" y="425" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
