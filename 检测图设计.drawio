@@ -1,1 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T08:45:24.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.20" etag="j6qeVH7GfSYeHRHsXKu9" type="github"><diagram name="第 1 页" id="v_hInMpoqfVpDW3c_P4e">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-23T08:56:51.267Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="T75C-uuhgXMHLz1eomg3" version="20.8.20" type="github">
+  <diagram name="第 1 页" id="v_hInMpoqfVpDW3c_P4e">
+    <mxGraphModel dx="824" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OsdabV3AvmhAhYU_wce2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OsdabV3AvmhAhYU_wce2-3" target="OsdabV3AvmhAhYU_wce2-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsdabV3AvmhAhYU_wce2-3" value="选择检测包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="149" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OsdabV3AvmhAhYU_wce2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OsdabV3AvmhAhYU_wce2-4" target="OsdabV3AvmhAhYU_wce2-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsdabV3AvmhAhYU_wce2-4" value="点击构建检测路径图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="232" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OsdabV3AvmhAhYU_wce2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OsdabV3AvmhAhYU_wce2-5" target="OsdabV3AvmhAhYU_wce2-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsdabV3AvmhAhYU_wce2-5" value="生成检测路径图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="316" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OsdabV3AvmhAhYU_wce2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OsdabV3AvmhAhYU_wce2-6" target="OsdabV3AvmhAhYU_wce2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsdabV3AvmhAhYU_wce2-6" value="选择检测包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="66" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OsdabV3AvmhAhYU_wce2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OsdabV3AvmhAhYU_wce2-10" target="OsdabV3AvmhAhYU_wce2-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsdabV3AvmhAhYU_wce2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OsdabV3AvmhAhYU_wce2-10" target="OsdabV3AvmhAhYU_wce2-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsdabV3AvmhAhYU_wce2-10" value="选择操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="402" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OsdabV3AvmhAhYU_wce2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OsdabV3AvmhAhYU_wce2-12" target="OsdabV3AvmhAhYU_wce2-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsdabV3AvmhAhYU_wce2-12" value="查看检测路径图信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="485" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OsdabV3AvmhAhYU_wce2-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OsdabV3AvmhAhYU_wce2-13" target="OsdabV3AvmhAhYU_wce2-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsdabV3AvmhAhYU_wce2-13" value="选择查看节点信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="568" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OsdabV3AvmhAhYU_wce2-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OsdabV3AvmhAhYU_wce2-14" target="OsdabV3AvmhAhYU_wce2-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsdabV3AvmhAhYU_wce2-14" value="删除检测路径图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="485" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OsdabV3AvmhAhYU_wce2-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OsdabV3AvmhAhYU_wce2-15" target="OsdabV3AvmhAhYU_wce2-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="469" y="720" />
+              <mxPoint x="359" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OsdabV3AvmhAhYU_wce2-15" value="生成检测路径图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="568" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OsdabV3AvmhAhYU_wce2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OsdabV3AvmhAhYU_wce2-18" target="OsdabV3AvmhAhYU_wce2-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsdabV3AvmhAhYU_wce2-18" value="显示节点信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="649" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OsdabV3AvmhAhYU_wce2-19" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="741" width="110" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
