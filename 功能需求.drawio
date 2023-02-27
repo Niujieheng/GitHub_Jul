@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T06:24:31.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="dVCYt9Scce4pGVW3DLSD" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-27T06:24:56.652Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="nP-4gq29XZ_8dFM3ms7d" version="20.8.23" type="github">
   <diagram name="第 1 页" id="8dE7ZdWdxmZFEx85QEgp">
     <mxGraphModel dx="872" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
         <mxCell id="UIGwOSxn3MGTBep0q3Vu-23" value="1.检测包构建 2.检测指令编辑 3.生成检测任务 &lt;br style=&quot;font-size: 13px;&quot;&gt;4.查看检测包和检测任务结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="540" y="291" width="360" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UIGwOSxn3MGTBep0q3Vu-25" value="1.标记ATT&amp;amp;CK矩阵 2.展示节点信息 3.路径图生成" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="UIGwOSxn3MGTBep0q3Vu-25" value="1.标记ATT&amp;amp;CK矩阵 2.展示节点信息 3.检测路径图生成" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="540" y="362" width="360" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UIGwOSxn3MGTBep0q3Vu-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;endArrow=none;endFill=0;" edge="1" parent="1" source="UIGwOSxn3MGTBep0q3Vu-28" target="UIGwOSxn3MGTBep0q3Vu-30">
