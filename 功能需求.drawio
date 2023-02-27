@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T06:14:11.366Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="nAFr33bH0kmpbof_Wr5w" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-27T06:24:31.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="dVCYt9Scce4pGVW3DLSD" version="20.8.23" type="github">
   <diagram name="第 1 页" id="8dE7ZdWdxmZFEx85QEgp">
     <mxGraphModel dx="872" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,8 +31,11 @@
         <mxCell id="UIGwOSxn3MGTBep0q3Vu-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=13;" edge="1" parent="1" source="UIGwOSxn3MGTBep0q3Vu-3" target="UIGwOSxn3MGTBep0q3Vu-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="UIGwOSxn3MGTBep0q3Vu-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;endArrow=none;endFill=0;" edge="1" parent="1" source="UIGwOSxn3MGTBep0q3Vu-3" target="UIGwOSxn3MGTBep0q3Vu-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UIGwOSxn3MGTBep0q3Vu-3" value="核心功能" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="240" y="290" width="110" height="50" as="geometry" />
+          <mxGeometry x="240" y="291" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UIGwOSxn3MGTBep0q3Vu-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=13;" edge="1" parent="1" source="UIGwOSxn3MGTBep0q3Vu-6" target="UIGwOSxn3MGTBep0q3Vu-19">
           <mxGeometry relative="1" as="geometry" />
@@ -50,13 +53,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UIGwOSxn3MGTBep0q3Vu-8" value="检测包检测" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="400" y="240" width="110" height="50" as="geometry" />
+          <mxGeometry x="400" y="291" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UIGwOSxn3MGTBep0q3Vu-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=13;" edge="1" parent="1" source="UIGwOSxn3MGTBep0q3Vu-9" target="UIGwOSxn3MGTBep0q3Vu-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UIGwOSxn3MGTBep0q3Vu-9" value="结果展示" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="400" y="340" width="110" height="50" as="geometry" />
+          <mxGeometry x="400" y="362" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UIGwOSxn3MGTBep0q3Vu-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=13;" edge="1" parent="1" source="UIGwOSxn3MGTBep0q3Vu-11" target="UIGwOSxn3MGTBep0q3Vu-21">
           <mxGeometry relative="1" as="geometry" />
@@ -74,10 +77,19 @@
           <mxGeometry x="540" y="150" width="360" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UIGwOSxn3MGTBep0q3Vu-23" value="1.检测包构建 2.检测指令编辑 3.生成检测任务 &lt;br style=&quot;font-size: 13px;&quot;&gt;4.查看检测包和检测任务结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="540" y="240" width="360" height="50" as="geometry" />
+          <mxGeometry x="540" y="291" width="360" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UIGwOSxn3MGTBep0q3Vu-25" value="1.标记ATT&amp;amp;CK矩阵 2.展示节点信息 3.路径图生成" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="540" y="340" width="360" height="50" as="geometry" />
+          <mxGeometry x="540" y="362" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UIGwOSxn3MGTBep0q3Vu-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;endArrow=none;endFill=0;" edge="1" parent="1" source="UIGwOSxn3MGTBep0q3Vu-28" target="UIGwOSxn3MGTBep0q3Vu-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIGwOSxn3MGTBep0q3Vu-28" value="检测资源管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="400" y="220" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UIGwOSxn3MGTBep0q3Vu-30" value="1.关键字查询 2.任意查询 3.检测资源信息查看" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="540" y="220" width="360" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
