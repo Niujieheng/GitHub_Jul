@@ -1,1 +1,112 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T09:27:28.066Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.20" etag="zUZEVfSY8YNne_j7_ie6" type="github"><diagram name="第 1 页" id="3UjdBd2KKpV0JYQb_SGN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-14T07:32:24.371Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="3f45HCwmUUl4n1-jQ8hH" version="21.0.6" type="github">
+  <diagram name="第 1 页" id="3UjdBd2KKpV0JYQb_SGN">
+    <mxGraphModel dx="962" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZT8GPRA4VV5K2qkBkmNg-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="425" width="610" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT8GPRA4VV5K2qkBkmNg-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281.5" y="325" width="610" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT8GPRA4VV5K2qkBkmNg-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="225" width="610" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT8GPRA4VV5K2qkBkmNg-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="123" width="610" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT8GPRA4VV5K2qkBkmNg-1" value="访问层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="140" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT8GPRA4VV5K2qkBkmNg-2" value="业务层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="240" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT8GPRA4VV5K2qkBkmNg-3" value="数据层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="340" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT8GPRA4VV5K2qkBkmNg-4" value="基础设施" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="440" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT8GPRA4VV5K2qkBkmNg-5" value="用户请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="140" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT8GPRA4VV5K2qkBkmNg-6" value="前后端通信" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="531.5" y="140" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT8GPRA4VV5K2qkBkmNg-7" value="页面渲染" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="140" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT8GPRA4VV5K2qkBkmNg-8" value="用户管理模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="240" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT8GPRA4VV5K2qkBkmNg-9" value="检测资源管理模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="413" y="240" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT8GPRA4VV5K2qkBkmNg-10" value="检测包模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="531" y="240" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT8GPRA4VV5K2qkBkmNg-11" value="检测路径图模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="240" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT8GPRA4VV5K2qkBkmNg-12" value="漏洞监测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="767" y="240" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT8GPRA4VV5K2qkBkmNg-13" value="用户数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="340" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT8GPRA4VV5K2qkBkmNg-14" value="检测工具" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="531" y="340" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT8GPRA4VV5K2qkBkmNg-15" value="漏洞验证代码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="340" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT8GPRA4VV5K2qkBkmNg-16" value="Docker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294.5" y="440" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT8GPRA4VV5K2qkBkmNg-17" value="服务器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="413.5" y="440" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT8GPRA4VV5K2qkBkmNg-18" value="中间件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="531.5" y="440" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT8GPRA4VV5K2qkBkmNg-19" value="数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650.5" y="440" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT8GPRA4VV5K2qkBkmNg-20" value="Harbor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="767.5" y="440" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT8GPRA4VV5K2qkBkmNg-25" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="109" as="sourcePoint" />
+            <mxPoint x="910" y="109" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZT8GPRA4VV5K2qkBkmNg-26" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="133" y="210" as="sourcePoint" />
+            <mxPoint x="913" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZT8GPRA4VV5K2qkBkmNg-27" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="310" as="sourcePoint" />
+            <mxPoint x="910" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZT8GPRA4VV5K2qkBkmNg-28" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="410" as="sourcePoint" />
+            <mxPoint x="910" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZT8GPRA4VV5K2qkBkmNg-29" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="510" as="sourcePoint" />
+            <mxPoint x="910" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
