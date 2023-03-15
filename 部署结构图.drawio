@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T04:25:57.381Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="r4pLK8BrGjaxbBqfMPyr" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-15T04:34:16.854Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="lYAva_BJyo_eHgmregKS" version="21.0.6" type="github">
   <diagram name="第 1 页" id="3UjdBd2KKpV0JYQb_SGN">
     <mxGraphModel dx="1454" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,11 +28,8 @@
         <mxCell id="ZT8GPRA4VV5K2qkBkmNg-5" value="用户请求" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="342" y="244" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZT8GPRA4VV5K2qkBkmNg-6" value="前后端通信" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="750" y="345" width="110" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="ZT8GPRA4VV5K2qkBkmNg-7" value="页面渲染" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="345" width="110" height="40" as="geometry" />
+          <mxGeometry x="700" y="345" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZT8GPRA4VV5K2qkBkmNg-13" value="用户数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="342" y="444" width="110" height="40" as="geometry" />
@@ -92,10 +89,10 @@
           <mxGeometry x="131.5" y="345" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZT8GPRA4VV5K2qkBkmNg-33" value="运行隔离" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="306.5" y="345" width="110" height="40" as="geometry" />
+          <mxGeometry x="342" y="345" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZT8GPRA4VV5K2qkBkmNg-34" value="数据传输" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="452" y="345" width="110" height="40" as="geometry" />
+          <mxGeometry x="523.5" y="345" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZT8GPRA4VV5K2qkBkmNg-35" value="配置服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="242" width="110" height="40" as="geometry" />
