@@ -529,6 +529,9 @@
         <mxCell id="epPVnvwA0EjMbYMCMHH0-129" value="&lt;font style=&quot;color: rgb(255, 51, 51); font-size: 14px;&quot;&gt;边界防护能力&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="388" y="295" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="epPVnvwA0EjMbYMCMHH0-130" value="态势感知" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="54" y="622" width="52" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
